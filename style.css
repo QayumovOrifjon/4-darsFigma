@@ -1,20 +1,11 @@
-body{
-    margin: 0;
-    padding: 0;
+.header{
+    background-image: url("./images/Rectangle\ 3.svg");
+  
 }
-h1,h2,h3,h4,h5,h6,p{
-    margin: 0;
-    padding: 0;
-}
-ul{
-    list-style: none;
-}
-a{
-    text-decoration: none;
-}
-.container{
-    max-width: 1140px;
-    width: 100%;
-    padding: 0 16px;
-    margin: 0 auto;
+.Img {
+ display: block;
+ margin: 0 auto;
+padding-top: 44px;}
+.header__bottom{
+    display: flex;
 }
