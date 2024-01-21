@@ -1,11 +1,12 @@
-.header{
-    background-image: url("./images/Rectangle\ 3.svg");
-  
+.hero{
+    display: flex;
+    justify-content: center;
 }
-.Img {
- display: block;
- margin: 0 auto;
-padding-top: 44px;}
-.header__bottom{
+.left__card{
+    display: flex;
+    align-items: center;
+    gap: 19px;
+}
+.music{
     display: flex;
 }
